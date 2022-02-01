@@ -1,8 +1,8 @@
 ## Hello, world! 👋
 
-Chamo-me Júlio Evêncio e estou cursando Sistema de Informação no Instituto Federal do Maranhão (IFMA).
+Chamo-me Júlio Evêncio e estou cursando Sistema de Informação no Instituto Federal do Maranhão - IFMA.
 
-- 🌱 Estou aprendendo: **C** e **Java**
+- 🌱 Estou aprendendo: **Java**, **C** e **SQL**
 
 ##
 
