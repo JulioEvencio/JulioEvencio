@@ -1,8 +1,8 @@
 # Hello, world! 👋
 
-Chamo-me Júlio e eu sou um programador apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou trabalhando como estagiário no Grupo GFT, onde tenho a oportunidade de desenvolver minhas habilidades em Java e Node. Também gosto de explorar a criação de jogos usando a biblioteca gráfica SDL 2 na linguagem C durante meu tempo livre. Além disso, estou cursando faculdade de Sistemas de Informação no IFMA (Instituto Federal do Maranhão) e tenho uma certificação AWS (Cloud Practitioner) que me proporciona uma base sólida em computação em nuvem.
+My name is Júlio Igreja and I am a technology enthusiast and software developer. Currently, I am working as an intern at the GFT Group, where I have the opportunity to develop my skills in Java and Node. I also enjoy exploring game development during my free time. Additionally, I am studying Information Systems at IFMA (Federal Institute of Maranhão) and hold an AWS (Cloud Practitioner) certification, which provides me with a solid foundation in cloud computing.
 
-## Tecnologias
+## Technologies
 
 ### Front end
 
@@ -25,7 +25,7 @@ Chamo-me Júlio e eu sou um programador apaixonado por tecnologia e desenvolvime
   <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 </div>
 
-### Banco de dados
+### Database
 
 <div style="display: inline_block"><br>
   <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
@@ -34,7 +34,7 @@ Chamo-me Júlio e eu sou um programador apaixonado por tecnologia e desenvolvime
   <img align="center" alt="MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 </div>
 
-### Outras
+### Others
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Linguagem C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
@@ -44,7 +44,7 @@ Chamo-me Júlio e eu sou um programador apaixonado por tecnologia e desenvolvime
   <img align="center" alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </div>
 
-## Encontre-me
+## Find me
 
 <div> 
   <a href="mailto:julioigreja.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
