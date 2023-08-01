@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-My name is Júlio Igreja and I am a technology enthusiast and software developer. Currently, I am working as an intern at the GFT Group, where I have the opportunity to develop my skills in Java and Node. I also enjoy exploring game development during my free time. Additionally, I am studying Information Systems at IFMA (Federal Institute of Maranhão) and hold an AWS (Cloud Practitioner) certification, which provides me with a solid foundation in cloud computing.
+Hi, My name is Júlio Igreja and I'm a technology enthusiast and software developer. I currently work as a Digibee developer at the GFT Group. I also like to explore game development during my free time. In addition, I am studying Information Systems at IFMA (Federal Institute of Maranhão) and I have the AWS (Cloud Practitioner) certification, which gives me a solid foundation in cloud computing.
 
 ## Technologies
 
