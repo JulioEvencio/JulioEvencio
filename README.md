@@ -6,57 +6,46 @@ Hi, My name is Júlio Igreja and I'm a software developer. I currently work as a
 
 ### Main Stack
 
-<div style="display: inline"><br>
-  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
-  <img align="center" alt="HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-  <img align="center" alt="CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-  <img align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-</div>
+- Java
+- Spring Boot
+- HTML5
+- CSS3
+- JavaScript
 
 ### Secondary Stack
-<div style="display: inline"><br>
-  <img align="center" alt="NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-  <img align="center" alt="Typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-</div>
+
+- NodeJS
+- TypeScript
+- PHP
 
 ### Databases
-<div style="display: inline"><br>
-  <img align="center" alt="PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
-  <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="SQLite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
-  <img align="center" alt="MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
-</div>
+
+- PostgreSQL
+- MySQL
+- SQLite
+- MongoDB
 
 ### Tools and Workstation
-<div style="display: inline"><br>
-  <img align="center" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
-  <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-  <img align="center" alt="Ubuntu" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"/>
-  <img align="center" alt="AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-  <img align="center" alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-</div>
+
+- Docker
+- Git
+- Ubuntu
+- AWS (Amazon Web Services)
+- Linux
 
 ### Others
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Linguagem C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="center" alt="C++" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <img align="center" alt="SDL 2" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg"/>
-  <img align="center" alt="Godot" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg"/>
-</div>
+- C
+- C++
+- SDL 2
+- Godot
 
 ## Find me
 
-<div> 
-  <a href="mailto:julioigreja.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/julioevencio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/JulioEvencio" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://pt.stackoverflow.com/users/219938/júlio-evêncio" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
-  <a href="https://julio-igreja.itch.io/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/JulioEvencio/JulioEvencio/main/itchio-logo-black.png" target="_blank"></a>
-  <a href="https://lichess.org/@/Enxadristas" target="_blank"><img height="30" src="https://raw.githubusercontent.com/JulioEvencio/JulioEvencio/main/icon.png" target="_blank"></a>
-</div>
+- <a href="https://www.linkedin.com/in/julioevencio" target="_blank">Linkedin</a>
+- <a href="https://pt.stackoverflow.com/users/219938/júlio-evêncio" target="_blank">Stack Overflow em Português</a>
+- <a href="https://julio-igreja.itch.io/" target="_blank">itch io</a>
+- <a href="https://lichess.org/@/Enxadristas" target="_blank">Lichess</a>
 
 ##
 
