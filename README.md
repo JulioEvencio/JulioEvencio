@@ -55,6 +55,7 @@ Hi, My name is Júlio Igreja and I'm a software developer. I currently work as a
   <a href="https://github.com/JulioEvencio" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://pt.stackoverflow.com/users/219938/júlio-evêncio" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
   <a href="https://julio-igreja.itch.io/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/JulioEvencio/JulioEvencio/main/itchio-logo-black.png" target="_blank"></a>
+  <a href="https://lichess.org/@/Enxadristas" target="_blank"><img height="30" src="https://raw.githubusercontent.com/JulioEvencio/JulioEvencio/main/icon.png" target="_blank"></a>
 </div>
 
 ##
