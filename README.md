@@ -43,7 +43,7 @@ Hi, My name is Júlio Igreja and I'm a software developer. I currently work as a
 
 ## Find me
 
-- <a href="https://www.linkedin.com/in/julioevencio" target="_blank">Linkedin</a>
+- <a href="https://www.linkedin.com/in/julioigreja/" target="_blank">Linkedin</a>
 - <a href="https://pt.stackoverflow.com/users/219938/júlio-evêncio" target="_blank">Stack Overflow em Português</a>
 - <a href="https://julio-igreja.itch.io/" target="_blank">itch io</a>
 - <a href="https://lichess.org/@/Enxadristas" target="_blank">Lichess</a>
