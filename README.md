@@ -6,6 +6,7 @@ Hi, My name is Júlio Igreja and I'm a software developer. I currently work as a
 
 ### Main Stack
 
+- Digibee
 - Java
 - Spring Boot
 - HTML5
