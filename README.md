@@ -39,7 +39,6 @@ Hi, My name is Júlio Igreja and I'm a software developer. I currently work as a
 - C
 - C++
 - SDL 2
-- Godot
 
 ## Find me
 
