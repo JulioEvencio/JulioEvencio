@@ -9,8 +9,8 @@ Hi, My name is Júlio Igreja and I'm a software developer. I currently work as a
 - Digibee
 - Java
 - Spring Boot
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ### Secondary Stack
