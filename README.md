@@ -6,12 +6,12 @@ Hi, My name is Júlio Igreja and I'm a software developer. I also like to explor
 
 ### Main Stack
 
-- Digibee
 - Java
 - Spring Boot
 - HTML
 - CSS
 - JavaScript
+- Digibee
 
 ### Secondary Stack
 
@@ -33,6 +33,7 @@ Hi, My name is Júlio Igreja and I'm a software developer. I also like to explor
 - Ubuntu
 - AWS (Amazon Web Services)
 - Linux
+- Godot
 
 ### Others
 
