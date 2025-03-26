@@ -7,17 +7,19 @@ Hi, My name is Júlio Igreja and I'm a software developer. I also like to explor
 ### Main Stack
 
 - Java
-- Spring Boot
+- Spring Framework
 - HTML
 - CSS
 - JavaScript
-- Digibee
 
 ### Secondary Stack
 
 - NodeJS
+- React
+- Angular
 - TypeScript
 - PHP
+- Digibee
 
 ### Databases
 
@@ -33,12 +35,14 @@ Hi, My name is Júlio Igreja and I'm a software developer. I also like to explor
 - Ubuntu
 - AWS (Amazon Web Services)
 - Linux
+- Unity
 - Godot
 
 ### Others
 
 - C
 - C++
+- C#
 - SDL 2
 - GDScript
 
